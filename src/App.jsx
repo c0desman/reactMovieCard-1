@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Home from './pages/home'
+import Home from './pages/Home'
 import Favorite from './pages/Favorite'
 import {Routes, Route} from 'react-router-dom'
 import './css/App.css'
